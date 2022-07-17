@@ -17,3 +17,5 @@ for i in range(4):
         
 for i in range(len(sum)):
     print(f"Player number {i+1} scored {sum[i]} points.")
+
+#input the words selected by each player in a separate line in the correct order. When done, hit enter.
